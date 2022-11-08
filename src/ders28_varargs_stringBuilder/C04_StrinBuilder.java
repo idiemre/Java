@@ -34,6 +34,7 @@ public class C04_StrinBuilder {
         sb.trimToSize();
         System.out.println(sb.capacity());//27
         System.out.println(sb.length());//27
+        System.out.println("emre");
 
 
 
