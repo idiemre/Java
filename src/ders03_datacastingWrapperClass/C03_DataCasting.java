@@ -1,4 +1,4 @@
-package ders3_datacastingWrapperClass;
+package ders03_datacastingWrapperClass;
 
 import java.util.Scanner;
 

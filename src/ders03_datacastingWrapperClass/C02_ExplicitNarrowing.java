@@ -1,4 +1,4 @@
-package ders3_datacastingWrapperClass;
+package ders03_datacastingWrapperClass;
 
 public class C02_ExplicitNarrowing {
     public static void main(String[] args) {

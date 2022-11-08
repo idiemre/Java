@@ -27,7 +27,8 @@ public class C02_Varargs {
              ) {
             toplamSonucu+=each;
         }
-        System.out.println("gilen sayilarin toplam sonucu : "+toplamSonucu);
+        System.out.println("girilen sayilarin toplam sonucu : "+toplamSonucu);
     }
+
 
 }

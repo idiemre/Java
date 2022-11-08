@@ -1,4 +1,4 @@
-package ders3_datacastingWrapperClass;
+package ders03_datacastingWrapperClass;
 
 public class C05_WrapperClass {
     public static void main(String[] args) {
