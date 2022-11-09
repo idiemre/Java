@@ -3,6 +3,7 @@ package ders31_inheritance;
 public class EAraba {
 
     EAraba(){
+
         System.out.println("Araba constructor calisti");
     }
 

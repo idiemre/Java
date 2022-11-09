@@ -3,6 +3,7 @@ package ders31_inheritance;
 public class FToyota extends EAraba {
 
     FToyota(){
+
         System.out.println("Toyota constructor calisti");
     }
 
