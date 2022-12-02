@@ -26,7 +26,5 @@ public class C06_ForLoops_Soru {
 
         }
 
-
-
     }
 }

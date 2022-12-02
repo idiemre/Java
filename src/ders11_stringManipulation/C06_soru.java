@@ -8,7 +8,7 @@ public class C06_soru {
         // - ikisini de iceriyorsa "Hem ev lazim hem is"
         // - hicbirini icermiyorsa "cok calisman lazim" yazdirin
 
-        String cumle="ten çıktım ev geldim";
+        String cumle="ten çıktım  geldim";
 
 
         if (cumle.contains("ev") && cumle.contains("iş")){

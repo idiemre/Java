@@ -10,7 +10,7 @@ public class AHemsireRunner {
         System.out.println(h1);
 
         AHemsire h2= new AHemsire();
-        System.out.println(h2);
+
         h2.personelIsim="Hatice";
         h2.personelAdresi="Sincan";
         h2.personelTelefon="3124323232";
@@ -24,6 +24,7 @@ public class AHemsireRunner {
         h3.hastaneIsmi="Java Hastanesi";
 
         System.out.println(h2.hastaneIsmi); // Java Hastanesi
+
 
 
     }

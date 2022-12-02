@@ -10,6 +10,9 @@ public class C06_NestedForLoopUcgen {
                 System.out.print(i*j +" ");
 
             }
+
+
+            System.out.println("kral şakir");
             System.out.println("");
 
         }

@@ -21,8 +21,12 @@ public class C01_ForLoops {
 
         //1 den 100 e kadar sayıları yazdırın
         //3 basamaklı 23 ile bölünebilen sayıları yazdırın
-        for (int i=0; i<10 ; i++){
-            System.out.println(i +" ");
+        for (int i=100; i<200 ; i++){
+            if (i%23==0){
+                System.out.print(i+" ");
+            }
+
+
         }
 
 

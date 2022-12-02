@@ -5,7 +5,7 @@ public class C04_RakamlarToplami {
 
         //kullanıcının verdiği sayının rakamlar toplamını bulun
 
-        int sayi=1000;
+        int sayi=1453;
         String sayistr=""+sayi;
         int birlerbasamagı=0;
         int rakamlartoplamı=0;
@@ -15,8 +15,10 @@ public class C04_RakamlarToplami {
             birlerbasamagı=sayi%10;
             rakamlartoplamı=rakamlartoplamı+birlerbasamagı;
             sayi=sayi/10;
+
         }
         System.out.println(rakamlartoplamı);
+
 
 
 
