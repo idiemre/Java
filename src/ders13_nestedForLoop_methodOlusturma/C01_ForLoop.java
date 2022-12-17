@@ -6,7 +6,7 @@ public class C01_ForLoop {
     public static void main(String[] args) {
         //soru 9 kullanıcıdan bir string alın ve stringi ters yazdırın
 
-        String input="jana ne kadar güzel";
+        String input="java ne kadar güzel";
 
         //lezug
 

@@ -42,5 +42,16 @@ public class DArabaRunner {
         System.out.println(arb1);
         DAraba arb4= new DAraba();
         System.out.println(arb4);
+
+        DAraba emr1=new DAraba();
+
+        System.out.println(emr1.marka = "toyota");
+
+        System.out.println(emr1.model = "yaris");
+        System.out.println(emr1.yil = 2020);
+
+
+
+
     }
 }

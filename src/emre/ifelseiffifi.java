@@ -15,8 +15,7 @@ public class ifelseiffifi {
         }else if (sayi<100){
             System.out.println("iki basamaklı sayı");
         }else{
-            System.out.println("büyük sayı" +
-                    "");
+            System.out.println("büyük sayı");
         }
     }
 }

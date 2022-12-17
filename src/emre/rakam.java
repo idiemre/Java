@@ -34,7 +34,8 @@ public class rakam {
                 System.out.println("sekiz");
                 break;
             case 9:
-                System.out.println("dokuz");break;
+                System.out.println("dokuz");
+                break;
             case 0:
                 System.out.println("sıfır");
 
